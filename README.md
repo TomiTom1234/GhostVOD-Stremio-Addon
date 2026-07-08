@@ -25,7 +25,7 @@ You do not need to download or install any files to use GhostVOD. Simply visit o
 ## 🛠️ Self-Hosting (Source Code for Geeks)
 For developers, homelab enthusiasts, and privacy advocates who want to run the GhostVOD Engine locally on their own servers or Docker containers, the full Source Code and Deployment Files (v1.1.4) are available. Get maximum speed, control, and privacy by hosting it yourself!
 
-👉 **https://www.patreon.com/GhostVOD**
+👉 👉 **[Get the Source Code on Patreon](https://www.patreon.com/GhostVOD)**
 *(Or support the project by buying me a coffee!)*
 
 ---
