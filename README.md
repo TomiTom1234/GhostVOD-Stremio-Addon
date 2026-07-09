@@ -1,4 +1,4 @@
-# 👻 GhostVOD Engine for Stremio
+# 👻 GhostVOD Engine for Stremio/Nuvio
 
 **Combine Multiple IPTV Subscriptions (Xtream Codes / M3U) into One Unified, Clean Stremio Addon!**
 
