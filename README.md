@@ -20,7 +20,7 @@ GhostVOD is a smart, stateless engine that acts as a bridge between your custom 
 
 You do not need to download or install any files to use GhostVOD. Simply visit our Web Dashboard, enter your server credentials, and generate your Magic Link to install directly into Stremio/Nuvio:
 
-👉 **[Click Here to Open GhostVOD Dashboard](https://ghostvod.onrender.com)**
+👉 **[Click Here to Open GhostVOD Dashboard](https://ghostvod.online)**
 
 ---
 
