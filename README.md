@@ -41,7 +41,7 @@ A: Absolutely! Because GhostVOD is a 100% stateless gateway, it queries your pro
 
 **Q4: Is this open-source? Can I self-host it?**
 
-A: Not yet, but it is officially on the roadmap! I am currently preparing a lightweight open-source version specifically designed for self-hosting. I will make a separate announcement here once the repository is public.
+A: Not yet, but it is officially on the roadmap! I am currently preparing a lightweight open-source version specifically designed for self-hosting.
 
 --
 
