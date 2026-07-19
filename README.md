@@ -51,6 +51,18 @@ A: Absolutely! Because GhostVOD is a 100% stateless gateway, it queries your pro
 
 A: Not yet, but it is officially on the roadmap! I am currently preparing a lightweight open-source version specifically designed for self-hosting.
 
+**Q5: I am already using an older version of GhostVOD. Do I need to generate a new Magic Link to wotk with version 2.0.0?**
+
+A: YES! Due to the massive backend architecture upgrades and our migration to a more powerful cloud server, all previous short links (Magic Links) have been deprecated. All users must generate a new link from the dashboard and replace the old one in Nuvio. Don't worry, it only takes 10 seconds, and it unlocks all the new features like Home Screen Catalogs and Custom Sorting!
+
+**Q6: Does it support Stalker/MAC portals?**
+
+A: No. GhostVOD strictly accepts Xtream Codes API credentials (Server URL, Username, Password).
+
+**Q7: Does this pull Live TV channels?**
+
+A: No, to keep your interface clean and fast, GhostVOD intentionally filters out Live TV and focuses 100% on VODs (Movies and Series). Use dedicated players for your live broadcasting needs.
+
 --
 
 **⚖️ Disclaimer:** *GhostVOD is a pure software engine/tool. We do not host, provide, or stream any media content, nor do we sell streaming subscriptions or access codes. Users are solely responsible for their own media sources and compliance with local laws.*
