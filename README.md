@@ -6,13 +6,21 @@ If you manage one or multiple remote media playlists or personal video servers, 
 
 GhostVOD is a smart, stateless engine that acts as a bridge between your custom data providers and Stremio. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
 
-## 🔥 Key Features
+## 🔥 Key Features (Updated for v2.0.0)
 
-* **True Multi-Playlist Support:** Add multiple remote server credentials (XC API / M3U text links) into one single magic link.
-* **VOD Only & Zero Catalog Pollution:** No messy channels or thousands of empty folders. It remains completely invisible until you click on a movie.
-* **Smart Hybrid Matching:** Automatically matches titles globally across languages and enforces release years to avoid incorrect duplicates.
-* **Transparent Stream Sources:** Each stream explicitly shows the server domain it’s coming from, so you know exactly which of your endpoints has the best quality/speed.
-* **The Perfect Debrid Companion:** It queries your custom endpoints in the background and lists the available streams right next to your Real-Debrid / Torrentio links!
+📌 Native Home Screen Catalogs: Optionally display specific provider folders directly on your Stremio/Nuvio home screen. This enables global search for local/regional content that isn't indexed in standard databases like Cinemeta.
+
+🔀 Custom Stream Sorting: Prioritize your stream results based on your preferred Language (e.g., Arabic, French, German) or Quality (4K, 1080p).
+
+🏷️ Visual Stream Badges: The engine parses titles on-the-fly and adds dynamic badges (4K, HD, Dual-Audio, Multi-Sub) directly into the stream selection menu.
+
+🧠 Zero-Cost Hover Metadata: Instantly see IMDb ratings, release years, and genres on media cards while scrolling, without triggering heavy server loads.
+
+⚡ Enterprise-Grade Stability: Built on a custom lightweight caching system that prevents memory leaks, ensuring lightning-fast load times even with massive media libraries (100k+ items).
+
+🚫 VOD Only & Zero Pollution: It ignores live feeds entirely. You decide exactly which folders clutter your screen, keeping your media center pristine.
+
+🔒 Transparent & Stateless: Each stream explicitly shows its origin domain. Zero user credentials or playlists are stored on our servers; everything is dynamically processed on-demand.
 
 ---
 
