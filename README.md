@@ -6,7 +6,7 @@ If you manage one or multiple remote media playlists or personal video servers, 
 
 GhostVOD is a smart, stateless engine that acts as a bridge between your custom data providers and Stremio. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
 
-## 🔥 Key Features (Updated for v2.0.0)
+## 🔥 Key Features (Updated for v2.0.1)
 
 📌 Native Home Screen Catalogs: Optionally display specific provider folders directly on your Stremio/Nuvio home screen. This enables global search for local/regional content that isn't indexed in standard databases like Cinemeta.
 
