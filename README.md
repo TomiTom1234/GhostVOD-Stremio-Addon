@@ -1,5 +1,8 @@
 # 👻 GhostVOD Engine for Stremio/Nuvio
 
+<p align="center">
+  <img src="https://ghostvod.online/logo.jpg" alt="GhostVOD Logo" width="120" height="120" style="border-radius: 12px;">
+</p>
 **Combine Multiple XC API / M3U Media Playlists into One Unified, Clean Catalog!**
 
 If you manage one or multiple remote media playlists or personal video servers, you probably hate having to switch to a clunky third-party player just to watch a movie. Stremio is the ultimate media center, so why not bring your personal remote VODs directly into it, fully cleaned and organized alongside your Debrid links?
