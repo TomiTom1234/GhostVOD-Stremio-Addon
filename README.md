@@ -1,7 +1,9 @@
 # 👻 GhostVOD Engine for Stremio/Nuvio
 
 <p align="center">
-  <img src="https://ghostvod.online/logo.jpg" alt="GhostVOD Logo" width="120" height="120" style="border-radius: 12px;">
+  <a href="https://ghostvod.online" target="_blank">
+    <img src="https://ghostvod.online/logo.png" alt="GhostVOD Logo" width="120" height="120" style="border-radius: 12px;">
+  </a>
 </p>
 **Combine Multiple XC API / M3U Media Playlists into One Unified, Clean Catalog!**
 
