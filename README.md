@@ -41,33 +41,43 @@ You do not need to download or install any files to use GhostVOD. Simply visit o
 ## 💬 Frequently Asked Questions (FAQ)
 
 **Q1: Can I use an M3U link, or does it only accept Xtream Codes?** 
+
 A: You can use either! Our dashboard allows you to paste a full M3U Playlist URL. The engine will instantly and automatically extract the server URL, username, and password from it.
 
 **Q2: Do I *have* to fetch and add provider catalogs to my home screen to see my VODs?** 
+
 A: Not at all! If you prefer a clean home screen, you can skip adding categories completely. GhostVOD operates silently in the background (Streams-Only Mode). Whenever you search for or click on any movie/series in Stremio/Nuvio, GhostVOD will automatically fetch and display your provider's streams in the source list.
 
 **Q3: Will using GhostVOD cause my IPTV provider to ban or block my subscription?** 
+
 A: Absolutely not; your account is 100% safe. GhostVOD is built with an "IPTV Firewall Shield." It uses an aggressive caching system (saving lists for 48 hours) and a strict request queue. Even if hundreds of users click the same movie, your provider only receives *one* single request. GhostVOD acts as a protective shield for your provider, not a burden.
 
 **Q4: Why wouldn't I just use a traditional player (like TiviMate) for my Xtream codes?** 
+
 A: Traditional players are unbeatable for Live TV! But for VOD, Stremio/Nuvio’s ecosystem, metadata tracking, and UI are simply on another level. GhostVOD is built specifically to leverage your existing private VOD libraries inside a modern cinematic interface.
 
 **Q5: Does it fetch stream quality and metadata? How does quality display work?** 
+
 A: Yes! The engine dynamically extracts the resolution (e.g., 4K, 1080p) and any audio tags directly from your provider's stream title and displays them clearly as visual badges in the stream selection list before you play.
 
 **Q6: Does it auto-update when my provider adds new movies or episodes?** 
+
 A: Yes! GhostVOD queries your providers' APIs dynamically. The moment your provider updates their server with new content, it will automatically become searchable and ready to stream in your app within **24 hours** (matching our optimized cloud caching cycle). No manual syncing or link generation is ever required on your end.
 
 **Q7: Do I need to generate a new Magic Link every time GhostVOD updates to a new version?** 
+
 A: No! GhostVOD core updates (like performance boosts or anti-ban features) are processed completely on our cloud backend. Your existing Magic Links will continue to work seamlessly and automatically benefit from the latest upgrades without any action required on your end.
 
 **Q8: Does it support Stalker/MAC portals?** 
+
 A: No. GhostVOD strictly accepts Xtream Codes API credentials and M3U links.
 
 **Q9: Does this pull Live TV channels?** 
+
 A: No, to keep your interface clean and fast, GhostVOD intentionally filters out Live TV and focuses 100% on VODs (Movies and Series). Use dedicated players for your live broadcasting needs.
 
 **Q10: Is this open-source? Can I self-host it?** 
+
 A: Not yet, but it is officially on the roadmap! I am currently preparing a lightweight open-source version specifically designed for self-hosting.
 
 ---
