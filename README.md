@@ -51,6 +51,7 @@ A: Not at all! If you prefer a clean home screen, you can skip adding categories
 **Q3: Will using GhostVOD cause my IPTV provider to ban or block my subscription?** 
 
 A: Absolutely not; your account is 100% safe. GhostVOD is built with an "IPTV Firewall Shield." It uses an aggressive caching system (saving lists for 48 hours) and a strict request queue. Even if hundreds of users click the same movie, your provider only receives *one* single request. GhostVOD acts as a protective shield for your provider, not a burden.
+*Please note:* Most IPTV providers strictly limit subscriptions to **one single active stream at a time**. Attempting to stream on multiple devices simultaneously may cause your provider to suspend your account, unless extra connections are purchased. This is a standard provider policy regarding concurrent streaming and is entirely unrelated to GhostVOD.
 
 **Q4: Why wouldn't I just use a traditional player (like TiviMate) for my Xtream codes?** 
 
