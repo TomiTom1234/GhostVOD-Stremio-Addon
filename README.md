@@ -17,7 +17,7 @@ GhostVOD is a smart, stateless engine that acts as a bridge between your custom 
 
 📋 **Instant M3U Extraction:** Paste either your Xtream Codes API credentials OR a full M3U Playlist URL. The engine instantly extracts the credentials on-the-fly.
 
-✅ **Bulk Category Selection (with 200 Max Limit):** Pin specific provider folders to your home screen! To protect your Smart TV or Firestick from freezing, the "Select All" button is intelligently capped to auto-select only the first 200 essential categories, keeping your app interface lightweight.
+✅ **Smart Bulk Category Selection:** Pin specific provider folders to your home screen! You now have full freedom to select all categories (up to 1,000) using the "Select All" toggle. To protect your Smart TV or Firestick from freezing, an elegant smart warning will alert you if your provider has over 50 categories, letting you proceed at your own risk while keeping your app interface lightweight.
 
 📝 **Custom Provider Aliases:** Label your servers with custom names (e.g., "My Backup Server") to display directly on your screen instead of exposing raw domain names.
 
