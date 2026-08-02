@@ -10,9 +10,13 @@
 
 If you manage one or multiple remote media playlists or personal video servers, you probably hate having to switch to a clunky third-party player just to watch a movie. Stremio is the ultimate media center, so why not bring your personal remote VODs directly into it, fully cleaned and organized alongside your Debrid links?
 
-GhostVOD is a smart, stateless engine that acts as a bridge between your custom data providers and Stremio. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
+GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge between your custom data providers and Stremio. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
 
-## 🔥 Key Features (Updated for v2.0.7)
+## 🔥 Key Features (Updated for v2.0.8)
+
+🔀 Advanced Content Sorting: Take full control of your library's layout directly from the configuration portal. You can now sort your catalogs by Newest Added, Oldest Added, Alphabetically (A-Z), or strictly keep the Provider's Default order.
+
+🎯 Ultra-Precise Search Accuracy: We've completely overhauled the search and matching algorithms. The engine now uses strict title extraction, successfully bypassing provider prefixes and complex subtitles. This significantly improves accuracy and almost entirely eliminates false positives.
 
 📂 **Smart Native Episode Support:** Intelligently parses and renders real TV series seasons and episodes directly inside the interface, instead of stacking them unorganized in the source list.
 
@@ -22,7 +26,7 @@ GhostVOD is a smart, stateless engine that acts as a bridge between your custom 
 
 📝 **Custom Provider Aliases:** Label your servers with custom names (e.g., "My Backup Server") to display directly on your screen instead of exposing raw domain names.
 
-🔀 **Custom Stream Sorting:** Prioritize your stream results based on your preferred Language (e.g., Arabic, Spanish, French) or Quality (4K, 1080p).
+🔀 **Custom Stream Prioritization:** Prioritize your stream results based on your preferred Language (e.g., Arabic, Spanish, French) or Quality (4K, 1080p).
 
 🛡️ **IPTV Firewall Shield (Anti-Ban):** Built-in query rate-limiting and concurrent request queues ensure that your IPTV provider is never spammed with heavy requests, keeping your subscription 100% safe.
 
