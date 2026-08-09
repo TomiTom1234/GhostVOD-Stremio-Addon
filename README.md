@@ -1,4 +1,4 @@
-# 👻 GhostVOD Engine for Stremio & NuvioTV
+# 👻 GhostVOD Engine for Stremio & Nuvio
 
 <p align="center">
   <a href="https://ghostvod.online" target="_blank">
