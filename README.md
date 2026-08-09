@@ -32,7 +32,7 @@ You asked for it! You can now generate a **Stateless Long Link**. Your credentia
 
 ![Full Cast Support](./images/photos_before-after.gif)
 
-* **MDBList & Multi-Source Ratings:** Enable MDBList compatibility directly from the GhostVOD dashboard! This fully unlocks the ability to see ratings from various sources right under the descriptions, as well as individual episode ratings. *(Note: You still need to enable MDBList and enter your personal API key safely inside Nuvio's settings).*
+* **MDBList & Multi-Source Ratings:** Enable MDBList compatibility directly from the GhostVOD dashboard! This fully unlocks the ability to see ratings from various sources right above the descriptions, as well as individual episode ratings. *(Note: You still need to enable MDBList and enter your personal API key safely inside Nuvio's settings).*
 
 <p align="center">
   <img src="./images/Nuvio-mdblist.jpg" width="32%" alt="Pic1" />
