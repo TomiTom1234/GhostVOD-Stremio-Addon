@@ -32,7 +32,11 @@ GhostVOD v2.1.2 introduces smart multi-language translated title matching for lo
   <img src="./images/lang_trans2.png" width="32%" alt="Language Selection 2" />
   <img src="./images/lang_trans3.png" width="32%" alt="Language Selection 3" />
 </p>
-
+<div align="center">
+  <video src="./videos/lang-trans.mp4" controls width="80%">
+    Your browser does not support the video tag.
+  </video>
+</div>
 ---
 
 ### 🛡️ Security & Performance Enhancements
