@@ -18,7 +18,7 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ## ✨ What's New in v2.1.2
 
-GhostVOD v2.1.2 introduces smart multi-language translated title matching for localized streams, alongside extensive security and stability improvements[cite: 5, 7].
+GhostVOD v2.1.2 introduces smart multi-language translated title matching for localized streams, alongside extensive security and stability improvements.
 
 ---
 
@@ -37,8 +37,8 @@ GhostVOD v2.1.2 introduces smart multi-language translated title matching for lo
 
 ### 🛡️ Security & Performance Enhancements
 
-* **Comprehensive Security Hardening:** Applied numerous security patches, input validations, and stricter network safeguards across the engine to protect your server environment[cite: 5].
-* **Overall Stability Improvements:** Enhanced system resilience and continuous background operation to ensure a smoother, interruption-free streaming experience[cite: 5].
+* **Comprehensive Security Hardening:** Applied numerous security patches, input validations, and stricter network safeguards across the engine to protect your server environment.
+* **Overall Stability Improvements:** Enhanced system resilience and continuous background operation to ensure a smoother, interruption-free streaming experience.
 
 
 ## ✨ What's New in v2.1.0 (Massive Overhaul)
