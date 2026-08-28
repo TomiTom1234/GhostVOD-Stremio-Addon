@@ -16,6 +16,31 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ---
 
+## ✨ What's New in v2.1.2
+
+GhostVOD v2.1.2 introduces smart multi-language translated title matching for localized streams, alongside extensive security and stability improvements[cite: 5, 7].
+
+---
+
+### 🌍 Multi-Language Search & Translated Title Matching
+
+* **Match Localized Titles:** You can now enable matching for IPTV streams named in other languages against official TMDB movie and series titles. For example, searching for an English title will accurately find your provider's streams even if they are named in Spanish (*Proyecto Hail Mary*), French, German, or other languages.
+* **Dashboard Language Selector:** Choose and customize your preferred search languages directly from the advanced preferences in the dashboard.
+
+<p align="center">
+  <img src="./images/lang_trans1.png" width="32%" alt="Language Selection 1" />
+  <img src="./images/lang_trans2.png" width="32%" alt="Language Selection 2" />
+  <img src="./images/lang_trans3.png" width="32%" alt="Language Selection 3" />
+</p>
+
+---
+
+### 🛡️ Security & Performance Enhancements
+
+* **Comprehensive Security Hardening:** Applied numerous security patches, input validations, and stricter network safeguards across the engine to protect your server environment[cite: 5].
+* **Overall Stability Improvements:** Enhanced system resilience and continuous background operation to ensure a smoother, interruption-free streaming experience[cite: 5].
+
+
 ## ✨ What's New in v2.1.0 (Massive Overhaul)
 
 GhostVOD v2.1.0 introduces a complete architectural rewrite focusing on ultimate privacy, metadata enrichment, and tight integration with NuvioTV's native UI features.
