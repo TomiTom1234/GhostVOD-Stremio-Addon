@@ -16,6 +16,15 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ---
 
+## ✨ What's New in v2.1.3
+
+* **Improved Provider Compatibility:** Enhanced support for various IPTV providers and strict firewalls, ensuring smoother connection and fewer loading errors.
+* **Smarter Background Fetching:** Significantly optimized how the addon communicates with providers, reducing server load and improving overall response times.
+* **Faster & More Reliable Streams:** Upgraded failover systems to deliver quicker stream links and prevent buffering delays during peak hours.
+* **General Fixes & Stability:** Minor bug fixes, improved error handling, and performance optimizations across all catalogs.
+
+---
+
 ## ✨ What's New in v2.1.2
 
 GhostVOD v2.1.2 introduces smart multi-language translated title matching for localized streams, alongside extensive security and stability improvements.
@@ -43,6 +52,7 @@ https://github.com/user-attachments/assets/b3b7a1bb-b15e-473a-9d58-b5e35283f9a4
 * **Comprehensive Security Hardening:** Applied numerous security patches, input validations, and stricter network safeguards across the engine to protect your server environment.
 * **Overall Stability Improvements:** Enhanced system resilience and continuous background operation to ensure a smoother, interruption-free streaming experience.
 
+---
 
 ## ✨ What's New in v2.1.0 (Massive Overhaul)
 
