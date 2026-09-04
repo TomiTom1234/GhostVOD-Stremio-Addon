@@ -16,6 +16,23 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ---
 
+## ✨ What's New in v2.1.4
+
+* **🎯 "Use strict word comparison only" Toggle:** Added a new optional setting in the dashboard for cleaner, more accurate results. 
+  * **When enabled:** It enforces strict title matching to eliminate clutter, completely preventing unrelated movies or other parts of a franchise from spilling into your stream list (e.g., searching for *Spider-Man: Homecoming* won't pull up every other Spider-Man movie).
+  * **Trade-off to keep in mind:** Because it requires an exact word match, it might miss titles if your provider uses heavy abbreviations or omits main words (e.g., listing just *"Chapter 2"* instead of *"John Wick: Chapter 2"*). If your provider has clean, full titles, leave this enabled; if their catalog uses erratic or truncated names, keeping it disabled will ensure maximum recall.
+ <p align="center">
+  <img src="./images/strict_word.png" alt="Strict Mode Option" width="65%" style="border-radius: 8px;" />
+  <br>
+  <sub><em>New "Use strict word comparison only" toggle in the configurator settings under "Advanced Preferences".</em></sub>
+</p>
+
+* **Faster Stream Resolution:** Significantly optimized internal title lookups, cutting down processing latency so your stream links appear noticeably faster when clicking any movie or episode.
+* **Security & Reliability Hardening:** Strengthened network connection lifecycles, prevented background task stalls, and improved memory handling to keep the engine fast and rock-solid under load.
+* **Smarter Title Matching:** Improved sequel numeral handling, better abbreviation reconciliation, and enhanced Unicode support for non-Latin and localized titles.
+
+---
+
 ## ✨ What's New in v2.1.3
 
 * **Improved Provider Compatibility:** Enhanced support for various IPTV providers and strict firewalls, ensuring smoother connection and fewer loading errors.
