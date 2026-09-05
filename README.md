@@ -14,6 +14,14 @@ If you manage one or multiple remote media playlists or personal video servers, 
 
 GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge between your custom data providers and your media app. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
 
+<p align="center">
+  <a href="https://buymeacoffee.com/ghostvod" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="border-radius: 8px;">
+  </a>
+  <br>
+  <sub>If you find GhostVOD useful and want to help cover server costs and ongoing maintenance, consider buying me a coffee! Any support is deeply appreciated.</sub>
+</p>
+
 ---
 
 ## ✨ What's New in v2.1.4
