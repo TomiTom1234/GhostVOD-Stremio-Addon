@@ -22,6 +22,15 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
   <sub>If you find GhostVOD useful and want to help cover server costs and ongoing maintenance, consider buying me a coffee! Any support is deeply appreciated.</sub>
 </p>
 
+<p align="center">
+  <a href="https://reddit.com/r/GhostVOD">
+    <img src="https://img.shields.io/badge/Reddit-r%2FGhostVOD-ff4500?style=for-the-badge&logo=reddit&logoColor=white" alt="GhostVOD Reddit Community">
+  </a>
+</p>
+<p align="center" style="color: #9ea0b8; font-size: 0.9rem; margin-top: -5px; margin-bottom: 20px;">
+  💬 Join our official subreddit to share feedback, request features, report bugs, or discuss the latest updates!
+</p>
+
 ---
 
 ## ✨ What's New in v2.1.4
@@ -186,3 +195,9 @@ A: Not yet, but it is officially on the roadmap! I am currently preparing a ligh
 ---
 
 **⚖️ Disclaimer:** *GhostVOD is a pure software engine/tool. We do not host, provide, or stream any media content, nor do we sell streaming subscriptions or access codes. Users are solely responsible for their own media sources and compliance with local laws.*
+
+<p align="center">
+  <a href="https://reddit.com/r/GhostVOD">
+    <img src="https://img.shields.io/badge/Reddit-r%2FGhostVOD-ff4500?style=for-the-badge&logo=reddit&logoColor=white" alt="GhostVOD Reddit Community">
+  </a>
+</p>
