@@ -47,7 +47,16 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ### 🌎 Latin American Spanish (Español Latino) Support
 * **Independent Stream Sorting (`eslat`):** Added a dedicated sorting option for **Spanish — Latino (Español Latino)**. It accurately detects and prioritizes Latin American audio/dubs (`LATINO`, `LAT`, `MX`, `LATAM`) separately from European Spanish (Castilian).
+
+ <p align="center">
+  <img src="./images/spanish_latino_sorting.png" alt="Strict Mode Option" width="65%" style="border-radius: 8px;" />
+  <br>
+  <sub><em>New dedicated Spanish — Latino (Español Latino) sorting filter to automatically prioritize Latin American dubs (LAT, LATINO, MX, LATAM) at the top of your stream list.</em></sub>
+</p>
+
 * **Multi-Language Metadata Matching (`es-LA`):** Added `es-LA` to translated title matching, mapping across TMDB regional translations (`es-MX`, `es-AR`, `es-CO`, `es-CL`, etc.) so regional titles match seamlessly with English/original metadata.
+
+
 
 ### 🔗 Community & Support
 * Added official community links in the dashboard footer, including our subreddit at [r/GhostVOD](https://reddit.com/r/GhostVOD).
