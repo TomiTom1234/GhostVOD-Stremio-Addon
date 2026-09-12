@@ -33,6 +33,27 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 ---
 
+## 🚀 What's New in v2.1.5
+
+### 🌐 Per-Provider Custom User-Agent
+* **Bypass Provider Restrictions:** Some IPTV/Xtream Codes providers enforce user-agent checks and restrict requests only to their official apps or specific players.
+* **Dedicated Input Field:** Added an optional **Custom User-Agent** field inside each server card on the dashboard. You can now emulate any player or client required by your provider. Leaving it blank maintains the clean default browser user-agent.
+ 
+ <p align="center">
+  <img src="./images/user_agent.png" alt="Strict Mode Option" width="65%" style="border-radius: 8px;" />
+  <br>
+  <sub><em>New "User-Agent" field to emulate specific players required or restricted by certain IPTV providers. You can leave it blank if this doesn't affect you.</em></sub>
+</p>
+
+### 🌎 Latin American Spanish (Español Latino) Support
+* **Independent Stream Sorting (`eslat`):** Added a dedicated sorting option for **Spanish — Latino (Español Latino)**. It accurately detects and prioritizes Latin American audio/dubs (`LATINO`, `LAT`, `MX`, `LATAM`) separately from European Spanish (Castilian).
+* **Multi-Language Metadata Matching (`es-LA`):** Added `es-LA` to translated title matching, mapping across TMDB regional translations (`es-MX`, `es-AR`, `es-CO`, `es-CL`, etc.) so regional titles match seamlessly with English/original metadata.
+
+### 🔗 Community & Support
+* Added official community links in the dashboard footer, including our subreddit at [r/GhostVOD](https://reddit.com/r/GhostVOD).
+
+---
+
 ## ✨ What's New in v2.1.4
 
 * **🎯 "Use strict word comparison only" Toggle:** Added a new optional setting in the dashboard for cleaner, more accurate results. 
