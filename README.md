@@ -56,7 +56,11 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 
 * **Multi-Language Metadata Matching (`es-LA`):** Added `es-LA` to translated title matching, mapping across TMDB regional translations (`es-MX`, `es-AR`, `es-CO`, `es-CL`, etc.) so regional titles match seamlessly with English/original metadata.
 
-
+ <p align="center">
+  <img src="./images/spanish_latino_trans.png" alt="Strict Mode Option" width="65%" style="border-radius: 8px;" />
+  <br>
+  <sub><em>Navigate to Advanced Preferences > Search by translated titles and check Spanish — Latino (Español Latino) to automatically map regional TMDB title translations (e.g., Mexico, Argentina, Colombia) to your VOD streams.</em></sub>
+</p>
 
 ### 🔗 Community & Support
 * Added official community links in the dashboard footer, including our subreddit at [r/GhostVOD](https://reddit.com/r/GhostVOD).
