@@ -7,12 +7,16 @@
 </p>
 
 <p align="center">
-  <b>Combine Multiple XC API / M3U Media Playlists into One Unified, Clean Catalog!</b>
+  <b>Turn Your IPTV/Xtream VOD into a Beautiful, Unified Catalog in Stremio & Nuvio!</b>
 </p>
 
-If you manage one or multiple remote media playlists or personal video servers, you probably hate having to switch to a clunky third-party player just to watch a movie. Stremio and Nuvio are the ultimate media centers, so why not bring your personal remote VODs directly into them, fully cleaned and organized alongside your Debrid links?
+Love Stremio’s/Nuvio's sleek interface but hate switching to clunky IPTV apps just to watch your provider's movies and series? 
 
-GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge between your custom data providers and your media app. It completely ignores linear live feeds and focuses strictly on VOD (Movies & Series).
+**GhostVOD** is a lightweight, privacy-focused engine that bridges your **Xtream Codes (XC) API** and **M3U playlists** directly into **Stremio** and **Nuvio** App. It aggregates multiple IPTV accounts into one unified, deduplicated catalog, automatically mapped to rich TMDB/IMDb metadata, with smart quality sorting and episode tracking, sitting seamlessly alongside your Debrid links.
+
+* 🎬 **Pure VOD Focus:** Completely filters out linear/live TV feeds to deliver an ultra-clean Movies & TV Shows experience.
+* ⚡ **Multi-Provider Aggregation:** Combine all your IPTV servers into a single, cohesive library without duplicates.
+* 🛡️ **Stateless & Private:** No databases holding your passwords; credentials stay encrypted or client-side.
 
 <p align="center">
   <a href="https://buymeacoffee.com/ghostvod" target="_blank" rel="noopener noreferrer">
@@ -30,6 +34,18 @@ GhostVOD is a lightweight, privacy-focused cloud engine that acts as a bridge be
 <p align="center" style="color: #9ea0b8; font-size: 0.9rem; margin-top: -5px; margin-bottom: 20px;">
   💬 Join our official subreddit to share feedback, request features, report bugs, or discuss the latest updates!
 </p>
+
+---
+
+## 🚀 What's New in v2.1.6
+
+### 🌍 Universal Multi-Language Title Matching
+* **Full Non-Latin Script Support:** Massively improved title matching for non-English content[cite: 11]. Titles in Arabic, Cyrillic, Greek, Asian scripts, and other languages are now fully recognized and accurately matched instead of being ignored or stripped away[cite: 11].
+* **Smart Diacritics & Punctuation Handling:** Automatic smoothing of accents, diacritics (like Arabic Tashkeel), and apostrophes ensures variations in spelling or punctuation between provider titles and metadata match seamlessly.
+* **Accurate Sequel & Number Detection:** Fixed an issue where non-Latin titles containing numbers could match incorrect releases[cite: 11]. Finding sequels and numbered parts across international libraries is now far more precise.
+
+### ⚡ Performance & Stability Improvements
+* **General System Stability:** Various under-the-hood engine optimizations, dependency updates, and improved server-side stability to ensure a faster, more reliable streaming experience.
 
 ---
 
